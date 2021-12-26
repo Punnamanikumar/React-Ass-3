@@ -1,0 +1,90 @@
+label {
+    padding-left: 100px;
+    font-size: larger;
+}
+
+.form {
+    margin-left: 32%;
+}
+
+h1 {
+    padding-top: 2%;
+    margin-left: 7%;
+}
+
+input {
+    margin-top: 40px;
+    border-radius: 50px;
+    background-color: rgb(245, 230, 230);
+    height: 40px;
+    width: 250px;
+    border: 2px solid black;
+}
+
+.input1 {
+    margin-left: 50px;
+}
+
+.input3 {
+    margin-left: 50px;
+}
+
+button {
+    margin-top: 40px;
+    background-color: aqua;
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 25%;
+}
+
+.button1 {
+    margin-top: 30%;
+    background-color: aqua;
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 50%;
+}
+
+button:hover {
+    background: blue;
+    color: white;
+}
+
+.button1:hover {
+    background: rgb(0, 255, 64);
+    color: white;
+}
+
+.Parentdiv {
+    display: flex;
+    position: absolute;
+    margin-top: 6%;
+    justify-content: space-between;
+    background: radial-gradient(rgb(156, 97, 214), rgb(120, 105, 255), rgb(91, 236, 115));
+    margin-left: 25%;
+    width: 60%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border: 2px solid black;
+}
+
+.Childdiv {
+    background-color: rgb(0, 238, 255);
+    border: 2px solid red;
+    margin: 1%;
+    width: 45%;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 12px;
+}
+
+.bh1 {
+    text-align: center;
+}
