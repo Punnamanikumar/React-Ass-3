@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../Components/Background.css";
+
 class Back extends Component {
   render() {
     return (
